@@ -1,0 +1,198 @@
+#main_p {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFF8D2;
+    margin-top: 40px;
+}
+
+#main_btn {            
+    background: #ffffff;
+    border-radius: 20px;
+    height: 45px;
+    width: 230px;
+    text-align: center;
+    border-width: 3px;
+    color: #7C8FFF;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    box-shadow: 0px 1px 1px #000000;
+    border: 0.2px solid #798bff;
+    margin-top: 20px;
+  }
+  #main_btn:hover {
+      background-color: #b994ff;
+      color: #ffffff;
+  }
+
+  #main_color {
+    height: 5100px;
+    background: linear-gradient(to bottom, #B8C2FF 400px, #FFF8D2 1800px, #8999ff);
+    background-repeat: no-repeat;
+    transition: background 0.7s ease; /* 배경색 전환을 부드럽게 하려면 트랜지션 추가 */
+  }
+
+  .fade-in {
+    opacity: 0;
+    transform: scale(0.7);
+    transition: opacity 0.9s ease, transform 0.9s ease;
+  }
+  
+  .fade-in.active {
+    opacity: 1;
+    transform: scale(1);
+  }
+  
+  #joy {
+    color: #798bff;
+    font-weight: 1000;
+  }
+
+  #arrow {
+    width: 80px;
+    height: 80px;
+    animation: shake 5s ease infinite;
+  }
+  
+  @keyframes shake {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    10%, 30%, 50%, 70%, 90% {
+      transform: translateY(-6px); /* 위로 3px 이동 */
+    }
+    20%, 40%, 60%, 80% {
+      transform: translateY(6px); /* 아래로 3px 이동 */
+    }
+  }
+
+  #main_div {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    z-index: 1001; /* Ensure it's above backdrop */
+    display: flex;
+    padding: 8px;
+    height: 70px;
+    width: 300px;
+    margin: 30px;
+    padding-bottom: 13px;
+    padding: 10px;
+    padding-right: 13px;
+    margin-bottom: 50px;
+  }
+
+  #people {
+    width: 70px;
+  }
+  
+  #people2 {
+    width: 65px;
+  }
+
+  #main_p2 {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 17px;
+    text-align: center;
+    color: #5168ff;
+    margin-left: 5px;
+}
+
+#main_sp {
+  color: #CC00FF;
+}
+
+#main_p3 {
+  font-family: 'Pretendard';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 25px;
+  text-align: center;
+  color: #6F3500;
+  margin: 0 auto;
+  padding: 7px;
+  margin-top: 200px;
+}
+
+#main_p4 {
+  font-family: 'Pretendard';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+  color: #262626;
+  margin: 10px 0;
+  padding: 13px;
+}
+
+#main_sp2 {
+  color: #618FF7;
+  font-weight: 800;
+}
+
+#main_div2 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.2);
+  z-index: 1001; /* Ensure it's above backdrop */
+  padding: 7px;
+  height: 335px;
+  width: 290px;
+  margin: 30px;
+  padding-bottom: 18px;
+  padding-right: 13px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* 가로 중앙 정렬 */
+  justify-content: center; /* 세로 중앙 정렬 */
+  text-align: center; /* 텍스트 가운데 정렬 */ /* 부모 요소의 높이를 화면 높이로 설정 (가로 중앙 정렬을 위해 필요) */
+}
+
+.fade-inn {
+  opacity: 10;
+  transform: scale(0.9);
+  transition: opacity 1.5s ease, transform 0.7s ease;
+}
+
+.fade-inn.active {
+  opacity: 10;
+  transform: scale(1);
+}
+
+#step1 {
+  width: 60%;
+  height: 60%;
+  border-radius: 20px;
+}
+
+#step2 {
+  margin-top: 5px;
+  width: 80%;
+  border-radius: 20px;
+}
+
+#step22 {
+  margin-top: 10px;
+  width: 80%;
+  border-radius: 20px;
+}
+
+#step3 {
+  margin-top: 35px;
+  width: 90%;
+  border-radius: 20px;
+  
+}
+
+#step4 {
+  width: 68%;
+  border-radius: 20px;
+}

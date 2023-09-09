@@ -1,0 +1,250 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
+#ld_div1 {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    display: flex;
+    color: #7789FF;
+}
+
+#ld_span1 {
+    color: #929191;
+    font-weight: 700;
+    font-size: 16px;
+    padding-top: 7px;
+}
+
+#ld_select1 {
+    width: 80px;
+    height: 35px;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    display: flex;
+    color: #929191;
+    text-align: center;
+    background: #F2F2F2;
+    border: 3px solid #a6b2ff;
+    border-radius: 10px;
+    color: #6F3500;
+    margin-left: 20px;
+}
+#ld_select2 {
+    width: 100px;
+    height: 35px;
+    margin-left: 15px;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    color: #929191;
+    text-align: center;
+    background: #F2F2F2;
+    border: 3px solid #a6b2ff;
+    border-radius: 10px;
+    color: #6F3500;
+}
+#ld_select3 {
+    width: 80px;
+    height: 35px;
+    margin-left: 10px;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    color: #929191;
+    text-align: center;
+    background: #F2F2F2;
+    border: 3px solid #a6b2ff;
+    border-radius: 10px;
+    color: #6F3500;
+}
+
+#ld_span2 {
+    padding-top: 10px;
+    padding-left: 10px;
+    color: #929191;
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+
+#ld_span3 {
+    padding-top: 10px;
+    color: #6F3500;
+    font-weight: 700;
+    font-size: 22px;
+    margin-top: -5px;
+}
+
+#ld_span6 {
+    padding-top: 10px;
+    color: #929191;
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+
+#ld_div2{
+    width: 325px;
+    height: 165px;
+    padding: 10px;
+    padding-top: 15px;
+    background: #F0EDED;
+    border: 1px solid #C9C9C9;
+    border-radius: 25px;
+    margin: 0 auto;
+}
+
+#ld_div3 {
+    margin-left: 10px;
+    color: #AE5E57;
+    font-weight: 600;
+    font-size: 19px;
+    float: left;
+}
+
+#ld_div4 {
+    margin-top: 10px;
+    margin-right: 10px;
+    color: #AE5E57;
+    font-weight: 600;
+    font-size: 19px;
+    float: right;
+}
+
+#ld_span4 {
+    font-size: 20px;
+}
+
+#ld_span5 {
+    color: #EBAFAA;
+}
+
+#ld_div5 {
+    display:inline-flex;
+    margin-top: 7px;
+}
+
+#ld_div6 {
+    color: #8A8A8A;
+    font-weight: 700;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-right: 2px;
+}
+
+#ld_div7 {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 600;
+    font-size:17px;
+
+    color: #784210;
+
+    padding: 3px;
+    width: 250px;
+    height: 20px;
+    text-align: left;
+}
+
+#ld_btn1 {
+    width: 85px;
+    height: 35px;
+    background: #F0F0F0;
+    border: 1px solid #C9C9C9;
+    border-radius: 15px;
+    align-items: center;
+    text-align: center;
+
+    color: #717171;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+#ld_btn1:hover {
+    background: #d0fff0;
+    border: 1px solid #91d2bd;
+    color: rgb(117, 117, 117);
+}
+
+#les_div1 {
+    display: flex;
+}
+
+#les_div2 {
+   padding: 15px;
+}
+
+#les_div3 {
+    display: flex;
+    float: right;
+}
+
+#les_btn {
+    color: #929191;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    background: #F0F0F0;
+    border: 1px solid #C9C9C9;
+    width: 90px;
+    height: 35px;
+    padding: 5px;
+}
+
+#les_btn:hover {
+    background: #ffc2c2;
+    border: 1px solid #ffa0a0;
+    color: #ffffff;
+}
+
+#les_div {
+    margin-right: 110px;
+    margin-top: -20px;
+    color: #929191;
+}
+
+#les_p1 {
+    color: #7789FF;
+    font-size: 28px;
+  }
+
+  #ld_select4 {
+    width: 150px;
+    height: 35px;
+    margin-left: 35px;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    text-align: center;
+    background: #F2F2F2;
+    border: 3px solid #a6b2ff;
+    border-radius: 10px;
+    color: #6F3500;
+}
+
+#ld_select5 {
+    width: 110px;
+    height: 35px;
+    margin-left: 35px;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    text-align: center;
+    background: #F2F2F2;
+    border: 3px solid #a6b2ff;
+    border-radius: 10px;
+    color: #6F3500;
+}

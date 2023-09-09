@@ -1,0 +1,117 @@
+.profile-image-label {
+    cursor: pointer;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background-color: #dedbff;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  
+  .profile-image-label input[type='file'] {
+    display: none;
+  }
+
+  #wel_p {
+    color:#7789FF;
+    font-size: 28px;
+  }
+
+  .wel_input {
+    border: none;
+    border-bottom: 2px solid #D1D1D4;
+    background-color: #ededed;
+    padding: 6px;
+    font-weight: 700;
+    transition: .2s;
+    width: 180px;
+    font-size: 18px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-right: 40px;
+}
+.wel_input:active,
+.wel_input:focus,
+.wel_input:hover {
+    outline: none;
+    border-bottom-color: #6A679E;
+}
+
+#wel_p2 {
+    color:#8d8d8d;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-left: 50px;
+}
+
+#wel_div {
+    display: flex;
+}
+
+.wel_input2 {
+    border: none;
+    border-bottom: 2px solid #D1D1D4;
+    background-color: #ededed;
+    padding: 6px;
+    font-weight: 700;
+    transition: .2s;
+    width: 180px;
+    font-size: 18px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-right: 40px;
+}
+.wel_input2:active,
+.wel_input2:focus,
+.wel_input2:hover {
+    outline: none;
+    border-bottom-color: #6A679E;
+}
+
+#wel_p3 {
+    color:#8d8d8d;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-left: 50px;
+}
+
+.wel_btn {
+    background: #92a2ff;
+    height: 45px;
+    width: 150px;
+    text-align: center;
+    border-radius: 15px;
+    border-style: none;
+    color: white;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    margin-top: 10px;
+    height: 40px;
+}
+
+.wel_btn:hover {
+    background-color: #FBFBFB;
+    color: #ffffff;
+    border: 1px solid #a7a7a7;
+    text-shadow: -1.2px 0px #001392, 0px 1.2px #001392, 1.2px 0px #001392, 0px -1.2px #001392;
+}
+
+#wel_link {
+    text-decoration-line: none;
+    color: #ffffff;
+    text-shadow: -1.2px 0px #696969, 0px 1.2px #696969, 1.2px 0px #696969, 0px -1.2px #696969;
+}
+
+#wel_link:hover {
+    text-decoration-line: none;
+    color: #FBC8C4;
+}
+
+#wel_p4 {
+    color:#8d8d8d;
+    font-size: 20px;
+    margin: 0 auto;
+    margin-left: 50px;
+}

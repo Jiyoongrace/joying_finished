@@ -1,0 +1,115 @@
+.signin_form_radio_btn {
+    display: inline-block;
+    width: 39%;
+    height : 45px;
+    border: 1px solid #C2C2C2;
+    border-radius: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 18px;
+
+}
+.signin_form_radio_btn input[type=radio] {
+    display: none;
+    text-align: center;
+    
+}
+.signin_form_radio_btn label {
+    display: block;
+    border-radius: 10px;
+       margin: 0 auto;
+    text-align: center;
+    height: -webkit-fill-available;
+    line-height: 45px;
+    width: 100%;
+}
+ 
+/* Checked */
+.signin_form_radio_btn input[type=radio]:checked + label {
+    background: #B8C2FF;
+    color: #ffffff;
+    text-shadow: -1.2px 0px #616161, 0px 1.2px #616161, 1.2px 0px #616161, 0px -1.2px #616161;
+    width: 100%;
+}
+ 
+/* Hover */
+.signin_form_radio_btn label:hover {
+    color: #7f7f7f;
+}
+ 
+/* Disabled */
+.signin_form_radio_btn input[type=radio] + label {
+    background: #F9FAFC;
+    color: #7f7f7f;
+}
+
+.signin_input {
+    border: none;
+    border-bottom: 2px solid #D1D1D4;
+    background-color: #ededed;
+    padding: 10px;
+    font-weight: 700;
+    transition: .2s;
+    width: 75%;
+    font-size: 18px;
+    border-radius: 15px;
+}
+.signin_input:active,
+.signin_input:focus,
+.signin_input:hover {
+    outline: none;
+    border-bottom-color: #6A679E;
+}
+
+.signin_color {
+    border-color: transparent;
+    width: 57%;
+    padding: 3px;
+    border-radius: 15px;
+    border-bottom: 2px solid #D1D1D4;
+}
+
+.signin_color::-webkit-color-swatch {
+    border-radius: 15px;
+}
+
+#signin_color_p {
+    color: #7f7f7f;
+}
+
+.signin_btn {
+    background: #92a2ff;
+    height: 45px;
+    width: 210px;
+    text-align: center;
+    border-radius: 15px;
+    border-style: none;
+    color: white;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+.signin_btn:hover {
+    background-color: #FBFBFB;
+    color: #ffffff;
+    border: 1px solid #a7a7a7;
+    text-shadow: -1.2px 0px #001392, 0px 1.2px #001392, 1.2px 0px #001392, 0px -1.2px #001392;
+}
+
+#signin_p {
+    color: #8897FE;
+}
+
+#signin_link {
+    text-decoration-line: none;
+    color: #ffffff;
+    text-shadow: -1.2px 0px #696969, 0px 1.2px #696969, 1.2px 0px #696969, 0px -1.2px #696969;
+}
+
+#signin_link:hover {
+    text-decoration-line: none;
+    color: #FBC8C4;
+}

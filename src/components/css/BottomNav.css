@@ -1,0 +1,14 @@
+/* App.css (또는 원하는 CSS 파일에 작성) */
+
+.bottom-nav {
+    position: fixed !important;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 381px;
+    height: 55px !important; /* 변경된 높이값 */
+    max-width: 500px; /* 원하는 최대 너비 설정 */
+    background-color: #fff; /* 메뉴 배경색을 원하는 색상으로 설정 */
+    border-top: 1px solid #ddd; /* 상단 경계선 추가 (선택 사항) */
+    z-index: 10;
+  }
