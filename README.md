@@ -18,15 +18,9 @@
 ![Slide 16_9 - 52](https://github.com/Jiyoongrace/joying_finished/assets/88182667/d4d9c10a-7882-40fb-969c-b96f26d37728)
 ![Slide 16_9 - 51](https://github.com/Jiyoongrace/joying_finished/assets/88182667/67369ee2-690c-4a05-90dd-ca32cbd9beb6)
 ![Slide 16_9 - 54](https://github.com/Jiyoongrace/joying_finished/assets/88182667/73d5aec4-a565-41e3-896d-975489a761b0)
+![Slide 16_9 - 60](https://github.com/Jiyoongrace/joying_finished/assets/88182667/87bafae1-4216-4e55-9495-e69444ce8b1e)
 ![Slide 16_9 - 55](https://github.com/Jiyoongrace/joying_finished/assets/88182667/fed6acc6-0e00-49d2-bbb0-10f67210bff8)
 ![Slide 16_9 - 44](https://github.com/Jiyoongrace/joying_finished/assets/88182667/5998b951-bfbc-408c-a473-d6bd3c58dd1b)
 ![Slide 16_9 - 46](https://github.com/Jiyoongrace/joying_finished/assets/88182667/aa7ec49d-292b-4abe-ba25-6b53c00174e6)
 ![Slide 16_9 - 56](https://github.com/Jiyoongrace/joying_finished/assets/88182667/ecc26f75-c7d4-4bd1-be53-03113dc9253f)
 ![Slide 16_9 - 45](https://github.com/Jiyoongrace/joying_finished/assets/88182667/de721b42-5983-493b-8b3d-39fc6e3c4520)
-
-
-
-
-![Slide 16_9 - 59](https://github.com/Jiyoongrace/joying_finished/assets/88182667/18663563-dc88-48de-a0bc-d533f02daa43)
-
-
